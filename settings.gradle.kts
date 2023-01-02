@@ -1,4 +1,4 @@
 rootProject.name = "demo"
 
-include("model")
-include("api")
+include("top-level-module")
+include("sub-module")
