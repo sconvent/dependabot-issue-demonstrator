@@ -1,4 +1,7 @@
-rootProject.name = "demo"
+rootProject.name = "dependabot-issue-demonstrator"
 
-include("api")
-include("model")
+include("test-top-module")
+include("test-common-module")
+include("test-submodule1")
+include("test-submodule2")
+include("test-submodule3")
