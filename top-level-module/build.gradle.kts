@@ -16,5 +16,5 @@ object Version {
 
 dependencies {
 	implementation(project(":sub-module"))
-	implementation("org.springframework.boot:spring-boot-starter:${Version.springBoot}")
+	implementation("org.springframework.boot:spring-boot-starter:3.0.1")
 }
